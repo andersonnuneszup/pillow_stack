@@ -1,0 +1,4 @@
+type: app
+description: Stack detailing the use of the Pillow Python plugin for working with images.
+# template used to create the project
+template: pillow-stack/pillow-stack-template

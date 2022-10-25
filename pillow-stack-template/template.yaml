@@ -1,0 +1,4 @@
+name: pillow-stack-template
+description: Template intended to detail the use of the Pillow Python plugin for working with images with some examples of its uses.
+types:
+  - app-template
